@@ -4,8 +4,8 @@
 .import/
 *.uid
 
-# Godot AI MCP：上传插件本体，忽略每个人本地的MCP服务配置
-addons/godot_ai/config.json
+# 忽略本地 AI 插件
+addons/godot_ai/
 
 # 系统垃圾文件
 .DS_Store
